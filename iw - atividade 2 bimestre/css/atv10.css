@@ -1,0 +1,12 @@
+.principal {
+    width: 600px;
+    height: 500px;
+}
+div img {
+    width: 100px;
+    height: 50px;
+}
+
+.imgs_peq {
+    display:flex;
+}
